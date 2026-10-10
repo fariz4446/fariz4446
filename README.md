@@ -1,16 +1,13 @@
 <h1 align="center">Hey there 👋 I'm Mohd Faris Abdullah</h1>
 
-<h3 align="center">Algorithmic Trading Developer · Trading Educator · Builder of Tools for Traders . Trading Software Developer . MT5 Expert Advisors & Pine Script Indicators . Turning ideas into automated systems 🚀</h3>
+<h3 align="center">Trading Software Developer · MT5 Expert Advisors & Pine Script Indicators · Trading Educator</h3>
 
-<p align="center"><i>"Driving by day. Coding EAs by night."</i></p>
-
-<p align="center">
-  <img src="assets/banner.gif" width="600" alt="banner">
-</p>
+<p align="center"><i>"Driving by day. Coding EAs by night." · Turning ideas into automated systems 🚀</i></p>
 
 <p align="center">
   <a href="https://www.patreon.com/xauusdbots"><img src="https://img.shields.io/badge/XAUUSDBOTS-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
   <a href="https://t.me/silentcircletrader"><img src="https://img.shields.io/badge/TELEGRAM-contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/freexauusdforexea"><img src="https://img.shields.io/badge/FREE%20EAs-Telegram%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <img src="https://img.shields.io/badge/MQL5-EA%20Developer-4a4a4a?style=for-the-badge">
   <img src="https://komarev.com/ghpvc/?username=fariz4446&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge">
 </p>
@@ -25,7 +22,7 @@ At night, I build trading tools: MetaTrader 5 Expert Advisors, TradingView indic
 
 - 📈 **Brand:** [XAUUSDBOTS](https://www.patreon.com/xauusdbots), Expert Advisors for gold traders
 - 🎓 **Trading education:** 5+ years of ICT / SMC, taught through a 10-module 1-to-1 class
-- 🌐 **Website:** [https://t.me/freexauusdforexea](https://t.me/freexauusdforexea)
+- 💬 **Free EAs:** [Telegram channel](https://t.me/freexauusdforexea)
 - 🛠️ **Currently building:** MEME LAB (Python paper-trading bot), Signal Desk (gold signal dashboard)
 
 ---
@@ -49,14 +46,14 @@ At night, I build trading tools: MetaTrader 5 Expert Advisors, TradingView indic
 
 ## 📊 Indicators & Dashboards
 
-| Project | What it does | Platform | Link |
-|---|---|---|---|
-| **Signal Desk** | XAUUSD buy/sell dashboard: chart with signals, entry / SL / TP1-3 and psych levels | HTML + Python (MT5 bridge) | [Repo](https://github.com/YOUR_USERNAME/signal-desk) |
-| **SMC Orderblock + ICT FVG** | Order blocks, BOS, FVG with entry / SL / TP1-3 (non-repaint) | TradingView Pine v6 | [Repo](https://github.com/YOUR_USERNAME/smc-orderblock-fvg) |
-| **Psych Level Trade Plan** | Psych-level entries with SL / TP1-3 and signal accuracy checking | TradingView Pine v6 | [Repo](https://github.com/YOUR_USERNAME/psych-level-trade-plan) |
-| **Smart Money Concepts (SMC)** | Order blocks, BOS/CHoCH, FVG, multi-timeframe dashboard | MQL5 | [Repo](https://github.com/YOUR_USERNAME/smc-indicator) |
-| **ABCD Fib Failure + Fractal ZigZag** | Harmonic pattern failure signals | MT5 / Pine | [Repo](https://github.com/YOUR_USERNAME/abcd-fib-failure) |
-| **XAUFlowMap** | Bookmap-style order flow visualizer for gold | HTML + MT5 bridge | [Repo](https://github.com/YOUR_USERNAME/xauflowmap) |
+| Project | What it does | Platform |
+|---|---|---|
+| **Signal Desk** | XAUUSD buy/sell dashboard: chart with signals, entry / SL / TP1-3 and psych levels | HTML + Python (MT5 bridge) |
+| **SMC Orderblock + ICT FVG** | Order blocks, BOS, FVG with entry / SL / TP1-3 (non-repaint) | TradingView Pine v6 |
+| **Psych Level Trade Plan** | Psych-level entries with SL / TP1-3 and signal accuracy checking | TradingView Pine v6 |
+| **Smart Money Concepts (SMC)** | Order blocks, BOS/CHoCH, FVG, multi-timeframe dashboard | MQL5 |
+| **ABCD Fib Failure + Fractal ZigZag** | Harmonic pattern failure signals | MT5 / Pine |
+| **XAUFlowMap** | Bookmap-style order flow visualizer for gold | HTML + MT5 bridge |
 
 ---
 
@@ -73,10 +70,9 @@ At night, I build trading tools: MetaTrader 5 Expert Advisors, TradingView indic
 
 ## 🌐 Web Projects
 
-| Project | Stack | Live Demo |
+| Project | Stack | What it does |
 |---|---|---|
 | **HELM.MY** | Bubble | Multi-vendor motorcycle helmet marketplace with reseller subscriptions |
-| **XAUUSDBOTS Website** | Whop | [Link](https://YOUR_LINK) |
 
 ---
 
