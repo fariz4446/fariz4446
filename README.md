@@ -1,8 +1,8 @@
-<h1 align="center">Hey there 👋 I'm Mohd Faris Abdullah</h1>
+<h1 align="center">Hey there 👋 I'm Fariz</h1>
 
 <h3 align="center">Trading Software Developer · MT5 Expert Advisors & Pine Script Indicators · Trading Educator</h3>
 
-<p align="center"><i>"Driving by day. Coding EAs by night." · Turning ideas into automated systems 🚀</i></p>
+<p align="center"><i>"Full-time EA coder. Turning trading ideas into automated systems 🚀"</i></p>
 
 <p align="center">
   <a href="https://www.patreon.com/xauusdbots"><img src="https://img.shields.io/badge/XAUUSDBOTS-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
@@ -12,15 +12,22 @@
   <img src="https://komarev.com/ghpvc/?username=fariz4446&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge">
 </p>
 
+<p align="center">
+  <a href="https://www.patreon.com/xauusdbots"><img src="https://img.shields.io/badge/GET%20THE%20MT5%20EA%20SOURCE%20CODE-on%20Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
+</p>
+
+<p align="center"><b>🔓 Stop guessing how Expert Advisors work. Get the full MQL5 source code of my MT5 EAs on <a href="https://www.patreon.com/xauusdbots">Patreon</a>, study every line, customize it, and turn it into your own automated trading system.</b></p>
+
 ---
 
 ## 🧬 About Me
 
-By day, I work as a ride-hailing driver (TADA, Ryde, Gojek, Grab) in Singapore, which is where I learned that good timing and good data beat guesswork.
+I'm a full-time Expert Advisor developer. I build MetaTrader 5 Expert Advisors, TradingView indicators, Python bots and web dashboards, mostly around **XAUUSD (gold)**.
 
-At night, I build trading tools: MetaTrader 5 Expert Advisors, TradingView indicators, Python bots and web dashboards, mostly around **XAUUSD (gold)**. I also teach ICT / Smart Money Concepts trading 1-to-1.
+I turn trading ideas into code that runs by itself, and I also teach ICT / Smart Money Concepts trading 1-to-1.
 
 - 📈 **Brand:** [XAUUSDBOTS](https://www.patreon.com/xauusdbots), Expert Advisors for gold traders
+- 🔓 **MT5 EA source code:** available to members on [Patreon](https://www.patreon.com/xauusdbots)
 - 🎓 **Trading education:** 5+ years of ICT / SMC, taught through a 10-module 1-to-1 class
 - 💬 **Free EAs:** [Telegram channel](https://t.me/freexauusdforexea)
 - 🛠️ **Currently building:** MEME LAB (Python paper-trading bot), Signal Desk (gold signal dashboard)
@@ -63,7 +70,6 @@ At night, I build trading tools: MetaTrader 5 Expert Advisors, TradingView indic
 |---|---|---|
 | **MEME LAB** | Python, OKX Demo API, SQLite | Meme-coin research and paper-trading bot with its own virtual engine and dashboard |
 | **XAUUSD AI Bot** | Python, Discord, Telegram | News + technical + fundamental analysis pushing signals to chat |
-| **Changi Landing Bot** | Python, Discord | Hourly count of flights landed at Changi, to time airport pickups |
 | **BTC / Gold Terminal** | Single-file HTML | Bloomberg-style market terminal using free data feeds |
 
 ---
@@ -96,5 +102,7 @@ At night, I build trading tools: MetaTrader 5 Expert Advisors, TradingView indic
 </p>
 
 ---
+
+<p align="center"><b>💡 Want to see how my EAs are built? <a href="https://www.patreon.com/xauusdbots">Get the MT5 source code on Patreon →</a></b></p>
 
 <p align="center"><sub>⚠️ Trading involves risk. Nothing here is financial advice.</sub></p>
