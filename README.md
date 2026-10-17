@@ -39,6 +39,7 @@ I turn trading ideas into code that runs by itself, and I also teach ICT / Smart
 | System | Strategy & Mechanics | Platform | Key Architecture |
 |---|---|---|---|
 | **XAUUSDBOTS News Straddle EA** | News Straddle | MT5 | Syncs with the Forex Factory calendar and places buy stop + sell stop before high-impact USD news |
+| XAUUSDBOTS ABCD Fib Reverse EA | Fibonacci Retracement Entry | MT5 | Finds the latest ZigZag A→B leg, enters when price retraces into the 0.705 zone, and opens 3 split positions with one stop loss and TP1/TP2/TP3 https://github.com/fariz4446/ABCD-Fib-Failure-Reverse-EA |
 | **XAUUSDBOTS Adaptive Spread LIVE V2** | Self-Calibrating Spread Pending Stops | MT5 | Auto-adapts spread gate, slippage limit and order distances to each broker https://github.com/fariz4446/XAUUSDBOTS-Adaptive-Spread-LIVE-V2 |
 | **XAUUSDBOTS Firebird Grid LIVE** | Hedging Grid | MT5 | Independent buy/sell baskets with trailing-pending averaging, basket TP and trailing stop [https://github.com/fariz4446/XAUUSDBOTS-Firebird-Grid-LIVE](https://github.com/fariz4446/XAUUSDBOTS-FIREBIRD-GRID-EA) |
 | **XAUUSDBOTS Dual Line Grid EA** | Trailing Line Grid | MT5 | Trailing buy/sell lines with averaging logic |
