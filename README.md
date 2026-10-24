@@ -38,6 +38,7 @@ I turn trading ideas into code that runs by itself, and I also teach ICT / Smart
 
 | System | Strategy & Mechanics | Platform | Key Architecture |
 |---|---|---|---|
+| **Penny Bot (moomoo)** | Momentum Scanner | Python / moomoo | Scans NYSE, Nasdaq and AMEX penny stocks for momentum, sizes positions by risk, manages stop and trailing exits, and posts hourly paper-portfolio updates to Discord https://github.com/fariz4446/moomoo-penny_bot |
 | **XAUUSDBOTS News Straddle EA** | News Straddle | MT5 | Syncs with the Forex Factory calendar and places buy stop + sell stop before high-impact USD news |
 | XAUUSDBOTS ABCD Fib Reverse EA | Fibonacci Retracement Entry | MT5 | Finds the latest ZigZag A→B leg, enters when price retraces into the 0.705 zone, and opens 3 split positions with one stop loss and TP1/TP2/TP3 https://github.com/fariz4446/ABCD-Fib-Failure-Reverse-EA |
 | **XAUUSDBOTS Adaptive Spread LIVE V2** | Self-Calibrating Spread Pending Stops | MT5 | Auto-adapts spread gate, slippage limit and order distances to each broker https://github.com/fariz4446/XAUUSDBOTS-Adaptive-Spread-LIVE-V2 |
