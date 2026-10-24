@@ -1,8 +1,8 @@
 <h1 align="center">Hey there 👋 I'm Fariz</h1>
 
-<h3 align="center">Trading Software Developer · MT5 Expert Advisors & Pine Script Indicators · Trading Educator</h3>
+<h3 align="center">Trading Software Developer · MT5 Expert Advisors · Pine Script Indicators · Python Bots (Crypto & US Stocks) · Trading Educator</h3>
 
-<p align="center"><i>"Full-time EA coder. Turning trading ideas into automated systems 🚀"</i></p>
+<p align="center"><i>"Full-time EA coder. Turning trading ideas into automated systems. Not just MT5: I also build Python trading bots for crypto and US penny stocks, with paper trading and Discord alerts 🤖 🚀"</i></p>
 
 <p align="center">
   <a href="https://www.patreon.com/xauusdbots"><img src="https://img.shields.io/badge/XAUUSDBOTS-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
